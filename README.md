@@ -1,4 +1,4 @@
-<h1>Olá, seja bem-vindo ao meu Github👋</h1> <br>
+<h1>Olá, seja bem-vindo👋</h1> <br>
 <p>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 3 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após estagiar por um período de 3 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX Designer e gosto de mesclar com os meus projetos Front - end.
 </p>
 <br>
@@ -9,10 +9,10 @@
 
 <br>
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/Leonardoaugusto77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardoaugusto77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoaugusto77&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div>
