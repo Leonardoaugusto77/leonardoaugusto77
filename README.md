@@ -3,11 +3,11 @@
 </h3>
 
 
-<h4>
+
 - 🔭 Desenvolvimento Front - end <br>
 - 🌱 Estou estudando atualmente: React js <br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
-</h4>
+
 <br>
 
 <div align="center">
