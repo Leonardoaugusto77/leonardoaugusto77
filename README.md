@@ -37,7 +37,7 @@
  
   <style>
   .container{
-    display: flex;
+    display: flex;}
     
   </style>
  
