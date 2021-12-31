@@ -1,12 +1,13 @@
 <h1>Olá, seja bem-vindo👋</h1> <br>
-<p>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 3 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após estagiar por um período de 3 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX Designer e gosto de mesclar com os meus projetos Front - end.
-</p>
-<br>
+<h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 3 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após estagiar por um período de 3 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX Designer e gosto de mesclar com os meus projetos Front - end.
+</h3>
 
-- 🔭 Desenvolvimento Front - end
-- 🌱 Estou estudando atualmente: React js 
+
+<h4>
+- 🔭 Desenvolvimento Front - end <br>
+- 🌱 Estou estudando atualmente: React js <br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
-
+</h4>
 <br>
 
 <div align="center">
