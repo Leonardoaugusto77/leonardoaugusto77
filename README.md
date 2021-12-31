@@ -1,4 +1,4 @@
-<h1>Olá, seja bem-vindo👋</h1> <br>
+<h1>Olá, seja bem-vindo👋</h1> 
 <h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 3 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após estagiar por um período de 3 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX Designer e gosto de mesclar com os meus projetos Front - end.
 </h3>
 
