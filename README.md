@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Desenvolvimento Front - end <br>
+- 🔭 Desenvolvedor Front - end & UX Designer <br>
 - 🌱 Estou estudando atualmente: React js <br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
