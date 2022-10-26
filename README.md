@@ -1,10 +1,10 @@
 <h1>Olá, seja bem-vindo👋</h1> 
-<h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 9 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após estagiar por um período de 3 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX Designer e gosto de mesclar com os meus projetos Front - end.
+<h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 9 meses. Estou buscando uma oportunidade de Desenvolvedor Júnior após trabalhar em dois projetos por um período de 7 meses, meu foco atualmente é desenvolvimento Front - end com JavaScript e React js, eu também tenho bastante paixão por UX|UI Design e gosto de mesclar com os meus estudos e projetos Front - end.
 </h3>
 
 
 - 🔭 Desenvolvedor Front - end & UI Designer <br>
-- 🌱 Estou estudando atualmente: JavaScript (ES6) & SASS <br>
+- 🌱 Estou estudando atualmente: JavaScript (ES6) & React js<br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
 <br>
@@ -21,7 +21,7 @@
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leo-figma" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201912/kin-sarutobi-kakashi-hatake-18183703-271220191721.gif">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/thomas-shelby-thomas-shelby-sorrindo-gif-21956940">
 </div>
   
   </div>
