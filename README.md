@@ -21,7 +21,7 @@
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leo-figma" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://gifer.com/embed/2ejm">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/OvZ.gif">
 </div>
   
   </div>
