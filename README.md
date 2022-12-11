@@ -1,9 +1,5 @@
 <h1>Olá, seja bem-vindo👋</h1> 
-<h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 9 meses. Após trabalhar 7 meses como Desenvolvedor front - end jr. Estou atrás de uma nova oportunidade de emprego em uma Empresa que o foco seja trazer a melhor qualidade possível aos seus clientes, quero fazer parte de um time que eu possa auxiliar a trazer melhores resultados enquanto evoluo com a equipe.
-
-
-
-Minhas Stacks são HTML, CSS , SASS, Wordpress, JavaScript e React js para o Desenvolvimento de telas, além de experiência com UI|UX Designer e para parte do Back - end sei o essencial de Node js, SQL Server e Consumo de APIs.
+<h3>Me chamo Leonardo, tenho 21 anos e estudo programação a 1 ano e 9 meses. Após trabalhar 7 meses como Desenvolvedor front - end jr. Estou atrás de uma nova oportunidade de emprego em uma Empresa que o foco seja trazer a melhor qualidade possível aos seus clientes, quero fazer parte de um time que eu possa auxiliar a trazer melhores resultados enquanto evoluo com a equipe. Minhas Stacks são HTML, CSS , SASS, Wordpress, JavaScript e React js para o Desenvolvimento de telas, além de experiência com UI|UX Designer e para parte do Back - end sei o essencial de Node js, SQL Server e Consumo de APIs.
 </h3>
 
 
