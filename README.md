@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo👋
-Me chamo Leonardo, tenho 21 anos e estudo programação a 2 ano e 1 mes. Após trabalhar 7 meses como Desenvolvedor front - end jr. Estou atrás de uma nova oportunidade de emprego em uma Empresa que o foco seja trazer a melhor qualidade possível aos seus clientes, quero fazer parte de um time que eu possa auxiliar a trazer melhores resultados enquanto evoluo com a equipe. Minhas Stacks são HTML, CSS , SASS, Wordpress, JavaScript e React js para o Desenvolvimento de telas, além de experiência com UI|UX Designer e para parte do Back - end sei o essencial de Node js, SQL Server e Consumo de APIs.
+Olá a todos me chamo Leonardo Augusto, tenho 22 anos e atualmente sou Desenvolvedor React & UI Designer, trabalho fazendo a criação e manutenção de um sistema de gestão de performance. Seja bem-vindo ao meu Github aqui você vai encontrar projetos de estudos e repositórios com aulas sequencias de JavaScript e React, nele terá algumas anotações e README explicando os métodos estudados de convido a olhar o Repositório de React
 
 
 
