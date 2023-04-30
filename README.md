@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo👋
-Olá a todos me chamo Leonardo Augusto, tenho 22 anos e atualmente sou Desenvolvedor React & UI Designer, trabalho fazendo a criação e manutenção de um sistema de gestão de performance. Seja bem-vindo ao meu Github aqui você vai encontrar projetos de estudos e repositórios com aulas sequencias de JavaScript e React, nele terá algumas anotações e README explicando os métodos estudados de convido a olhar o Repositório de React
+Olá a todos me chamo Leonardo Augusto, tenho 22 anos e atualmente sou Desenvolvedor React & UI Designer, trabalho fazendo a criação e manutenção de um sistema de gestão de performance. Seja bem-vindo ao meu Github aqui você vai encontrar projetos de estudos e repositórios com aulas sequencias de JavaScript e React, nele terá algumas anotações no README explicando os métodos estudados de convido a olhar o Repositório de React
 
 
 
