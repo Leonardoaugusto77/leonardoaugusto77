@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo👋
-Olá a todos me chamo Leonardo Augusto, tenho 22 anos e atualmente sou Desenvolvedor React & UI Designer, trabalho fazendo a criação e manutenção de um sistema de gestão de performance. Seja bem-vindo ao meu Github aqui você vai encontrar projetos de estudos e repositórios com aulas sequencias de JavaScript e React, nele terá algumas anotações no README explicando os métodos estudados de convido a olhar o Repositório de React
+Após adquirir experiência em uma plataforma de gestão de desempenho, estou buscando uma nova oportunidade como Desenvolvedor Front-end Júnior. Em minha última experiência, tive a oportunidade de trabalhar com React.js, interações de API utilizando Node.js e Java, além de realizar consultas em um banco de dados PostgreSQL com a ferramenta pgadmin. Durante minha rotina de trabalho, utilizei o Material UI do Google, além de criar documentação em inglês e realizar testes automatizados com Cypress. Estou entusiasmado para aplicar minhas habilidades e contribuir com projetos desafiadores no campo do desenvolvimento web.
 
 
 
