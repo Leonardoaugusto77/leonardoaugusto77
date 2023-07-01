@@ -4,7 +4,7 @@ Após adquirir experiência em uma plataforma de gestão de desempenho, estou bu
 
 
 - 🔭 Desenvolvedor React & UI Designer <br>
-- 🌱 Estou estudando atualmente: JavaScript (ES6) & React js<br>
+- 🌱 Estou estudando atualmente:React js, Node js e PostgreSQL<br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
 <br>
