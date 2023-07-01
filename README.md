@@ -3,7 +3,7 @@ Após adquirir experiência em uma plataforma de gestão de desempenho, estou bu
 
 
 
-- 🔭 Desenvolvedor Front - end & UI Designer <br>
+- 🔭 Desenvolvedor React & UI Designer <br>
 - 🌱 Estou estudando atualmente: JavaScript (ES6) & React js<br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
