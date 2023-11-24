@@ -1,10 +1,9 @@
 ## Olá, seja bem-vindo👋
-Após adquirir experiência em uma plataforma de gestão de desempenho, estou buscando uma nova oportunidade como Desenvolvedor Front-end Júnior. Em minha última experiência, tive a oportunidade de trabalhar com React.js, interações de API utilizando Node.js e Java, além de realizar consultas em um banco de dados PostgreSQL com a ferramenta pgadmin. Durante minha rotina de trabalho, utilizei o Material UI do Google, além de criar documentação em inglês e realizar testes automatizados com Cypress. Estou entusiasmado para aplicar minhas habilidades e contribuir com projetos desafiadores no campo do desenvolvimento web.
 
+Empresa focada em criar estratégias digitais, especializada na criação de Landing Pages de alto impacto, prototipagem com Figma, gerenciamento de mídias sociais e desenvolvimento full stack. Nossa missão é impulsionar o sucesso de nossos clientes no mundo digital, desenvolvendo estratégias sob medida que combinam design de ponta e expertise técnica. Trabalhamos para transformar sua visão em realidade e alcançar resultados significativos online. Junte-se a nós e descubra o poder das estratégias digitais bem executadas.
 
-
-- 🔭 Desenvolvedor React & UI Designer <br>
-- 🌱 Estou estudando atualmente:React js, Node js e PostgreSQL<br>
+- 🔭 Desenvolvimento Full Stack e Prototipação<br>
+- 🌱 Posicionamento e Estrategia Digital<br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
 <br>
