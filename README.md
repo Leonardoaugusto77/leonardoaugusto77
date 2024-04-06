@@ -2,7 +2,7 @@
 
 Empresa focada em criar estratégias digitais, especializada na criação de Landing Pages de alto impacto, prototipagem com Figma, gerenciamento de mídias sociais e desenvolvimento. Nossa missão é impulsionar o sucesso de nossos clientes no mundo digital, desenvolvendo estratégias sob medida que combinam design de ponta e expertise técnica. Trabalhamos para transformar sua visão em realidade e alcançar resultados significativos online. Junte-se a nós e descubra o poder das estratégias digitais bem executadas.
 
-- 🔭 Desenvolvimento Full Stack e Prototipação<br>
+- 🔭 Desenvolvimento e Prototipação<br>
 - 🌱 Posicionamento e Estrategia Digital<br>
 - 📫 Contate - me no email: Leonardopjh30@gmail.com
 
